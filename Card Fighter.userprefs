@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Deck.cs">
+    <Files>
+      <File FileName="Assets\Script\Deck.cs" Line="17" Column="36" />
+      <File FileName="Assets\Script\DeckView.cs" Line="10" Column="2" />
+      <File FileName="Assets\Script\DebugPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CardModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\InputController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SampleAgent.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CharacterController.cs" Line="1" Column="1" />
+      <File FileName="Assets\PQAssets\Query-Chan-SD\Scripts\QuerySDController\QuerySDMecanimController.cs" Line="1" Column="1" />
+      <File FileName="Assets\PQAssets\Query-Chan-SD\Scripts\GUIController\GUIControllerSD.cs" Line="1" Column="1" />
+      <File FileName="Assets\PQAssets\Query-Chan-SD\Documents\ReadMe.txt" Line="1" Column="1" />
+      <File FileName="Assets\Script\ValueCard.cs" Line="10" Column="27" />
+      <File FileName="Assets\Script\CardView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CharacterSelection.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CardEventArgs.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CountDeck.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

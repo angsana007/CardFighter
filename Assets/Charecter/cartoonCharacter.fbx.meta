@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 278c942a1f8ffe644bc15c8bac4c5fe3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: eyebrow
+    100006: eyeGlass
+    100008: eyeGlass.001
+    100010: eyeInner
+    100012: eyeInner.001
+    100014: eyeOuter
+    100016: eyeOuter.001
+    100018: face
+    100020: face_MeshPart0
+    100022: face_MeshPart1
+    100024: head
+    100026: pant
+    100028: Plane
+    100030: Plane.001
+    100032: shoes
+    100034: shoes.001
+    100036: Sun
+    400000: Camera
+    400002: //RootNode
+    400004: eyebrow
+    400006: eyeGlass
+    400008: eyeGlass.001
+    400010: eyeInner
+    400012: eyeInner.001
+    400014: eyeOuter
+    400016: eyeOuter.001
+    400018: face
+    400020: face_MeshPart0
+    400022: face_MeshPart1
+    400024: head
+    400026: pant
+    400028: Plane
+    400030: Plane.001
+    400032: shoes
+    400034: shoes.001
+    400036: Sun
+    2300000: eyebrow
+    2300002: eyeGlass
+    2300004: eyeGlass.001
+    2300006: eyeInner
+    2300008: eyeInner.001
+    2300010: eyeOuter
+    2300012: eyeOuter.001
+    2300014: face_MeshPart0
+    2300016: face_MeshPart1
+    2300018: head
+    2300020: pant
+    2300022: Plane
+    2300024: Plane.001
+    2300026: shoes
+    2300028: shoes.001
+    3300000: eyebrow
+    3300002: eyeGlass
+    3300004: eyeGlass.001
+    3300006: eyeInner
+    3300008: eyeInner.001
+    3300010: eyeOuter
+    3300012: eyeOuter.001
+    3300014: face_MeshPart0
+    3300016: face_MeshPart1
+    3300018: head
+    3300020: pant
+    3300022: Plane
+    3300024: Plane.001
+    3300026: shoes
+    3300028: shoes.001
+    4300000: Plane.001
+    4300002: shoes.001
+    4300004: shoes
+    4300006: pant
+    4300008: Plane
+    4300010: eyebrow
+    4300012: eyeOuter.001
+    4300014: eyeInner.001
+    4300016: eyeGlass.001
+    4300018: eyeGlass
+    4300020: eyeInner
+    4300022: eyeOuter
+    4300024: head
+    4300026: face_MeshPart0
+    4300028: face_MeshPart1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 9816a4daf6046ad42ad6da2ad1b8b589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 4893cc29f06f0ad408bbf5dd96fc40a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: b760e4fb666e8e744bf5492e45cfff20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 4033bf032d4aae5479906177cfa53de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: b05c4605d1bc18b42ba6b90b60683a27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: fa92bba355ed87140819a21f2ff6343d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: caacc3d515844aa44b44bd69bbfb5d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 6ebce87058856004f834bee1c19227d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: fb934b87f46f2184fa6fd1a310e1689a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: fd57879ee39682649986a9aa319f4b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 026aaf13cbc16ef498f239c23186cadd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
